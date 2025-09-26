@@ -1,0 +1,2 @@
+# Analisi-predittiva-e-comportamento-azionario-di-DIS-Disney-e-WBD-Warner-Bros-2019-2023-
+Il presente progetto si propone di analizzare e modellare il comportamento storico delle azioni  Disney (DIS) e Warner Bros. Discovery (WBD) nel periodo 2019-2023, con  l’obiettivo di elaborare previsioni accurate sui prezzi futuri. Random Forest, regressione lineare, indicatori di errore, distribuzioni, matrici di confusione e analisi dei cluster
